@@ -13,14 +13,14 @@ Requirements
 Usage
 -----
 
-    $ git clone https://github.com/Ro0TN3T/internet .internet
+    $ git clone https://github.com/Ro0TN3T/internet
     $ python .internet/app.py
 
 
 Updating
 --------
 
-    $ cd .internet
+    $ cd internet
     $ git pull
     $ python reset.py
     $ python app.py
